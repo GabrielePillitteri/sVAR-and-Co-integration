@@ -1,4 +1,4 @@
-# sVaR-and-Co-integration
+# sVAR-and-Co-integration
 During a week-long intensive project for the "Econometrics of Financial Markets" course at university, I delved into the application of various advanced econometric models to analyze almost random simulated financial market data.
 ## Goal of the project
 ### Assessing the Dynamic Impact of Oil Price Shocks on Macroeconomic Variables
